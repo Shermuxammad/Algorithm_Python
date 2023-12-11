@@ -1,0 +1,1 @@
+k = int(input("1dan 365 gach ixtiyoriy son kiriting - ")); kun = (k + 3) % 7; print(kun)

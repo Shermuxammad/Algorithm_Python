@@ -1,0 +1,1 @@
+# 3ta input a,b,c son kiritiladi 4chi o'zgaruvchini qo'shmasdan a=b, b=c, c=a ga o'zgarishi kerak 

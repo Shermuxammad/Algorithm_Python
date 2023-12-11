@@ -1,0 +1,1 @@
+kun = int(input("1 dan 165 sonigacha ixtiyoriy son kiriting - ")) ; natija = kun % 7 ; print(natija)
