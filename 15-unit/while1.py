@@ -10,7 +10,7 @@ if a > 0 and b > 0:
         a = int(input('Enter positive integer (A > B): '))
         b = int(input('Enter positive integer B: '))
             
-    # empty_part = a
+    empty_part = a
     while a>=b:
         a -= b
     # Output the result

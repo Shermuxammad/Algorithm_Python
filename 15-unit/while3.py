@@ -3,7 +3,7 @@ N = int(input('Enter N value: '))
 K = int(input('Enter K value: '))
 
 # Chek both integers positive or not.
-if N > 0:
+if N < 0:
     # Ensure K value bigger than 0 or not.
     while K <= 0:
         # Output the incorrect value.
