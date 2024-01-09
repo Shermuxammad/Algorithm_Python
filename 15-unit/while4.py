@@ -9,11 +9,21 @@ while n <= 0:
 result = "It is power of 3"
 # Ensure (n>0)or not
 while n > 1:
-    if n%3!=0:
-        result = "It is not power of 3"
-        break
-    n/=3
+    n-=3
+if n==0:
+    result
+    # break
+else:
+    result = "It is not power of 3"
 # Output the result
 print(result)
     
-    
+# # While 4
+
+# n = int(input('n = '))
+# while n>0:
+#     n-=3
+# if n==0:
+#     print("3ga karrali")
+# else:
+#     print("Emas")
